@@ -125,4 +125,3 @@ alias tre='tree'
 
 # nautilus
 alias window='nautilus'
-

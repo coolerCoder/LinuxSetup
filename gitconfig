@@ -4,7 +4,6 @@ lg = log --graph --abbrev-commit --decorate --date=relative --format=format:'%C(
 co = checkout
 
 [user]
-	emal = 
 	name = 
 	email = 
 [core]
